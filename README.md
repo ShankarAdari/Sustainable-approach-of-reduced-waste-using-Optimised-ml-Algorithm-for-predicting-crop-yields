@@ -1,0 +1,2 @@
+# Sustainable-approach-of-reduced-waste-using-Optimised-ml-Algorithm-for-predicting-crop-yields
+This project presents a complete machine-learning framework designed to improve sustainable agriculture. It addresses the modern struggle with unpredictable crop yields, improper fertilizer application, and rising agricultural waste through an integrated approach combining Predictive Analytics and Computer Vision.
