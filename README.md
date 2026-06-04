@@ -3,7 +3,6 @@
 Sustainable Agriculture Framework: Yield Forecasting & Waste Detection
 📋 Project Overview
 This project presents a complete machine-learning framework designed to improve sustainable agriculture. It addresses the modern struggle with unpredictable crop yields, improper fertilizer application, and rising agricultural waste through an integrated approach combining Predictive Analytics and Computer Vision.
-
 ✨ Key Features
 
 Crop & Fertilizer Recommendation: Suggests the most suitable crop and optimal fertilizer combinations based on soil nutrient profiles.
